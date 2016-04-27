@@ -1,0 +1,4 @@
+
+## Aggrégation
+
+Regrouper la donnée

@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "NoSQL data modeling",
+    "packageVersion": "0.0.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

@@ -1,0 +1,2 @@
+
+## Tolérence à la panne

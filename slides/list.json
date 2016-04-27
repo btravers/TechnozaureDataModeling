@@ -1,0 +1,34 @@
+[
+    "index.md",
+    [
+        "why/index.md",
+        "why/volume.md",
+        "why/flexibility.md",
+        "why/replication.md"
+    ],
+    [
+        "overview/index.md",
+        "overview/types.md",
+        "overview/cap.md"
+    ],
+    [
+        "modeling/index.md",
+        "modeling/relational_nosql.md",
+        "modeling/denormalization.md",
+        "modeling/aggregation.md",
+        "modeling/link.md"
+    ],
+    [
+        "basic_examples/index.md",
+        "basic_examples/relation_1_1.md",
+        "basic_examples/relation_1_n_faible.md",
+        "basic_examples/relation_1_n_grand.md",
+        "basic_examples/relation_1_n_tres_grand.md"
+    ],
+    [
+        "advanced_techniques/index.md"
+    ],
+    [
+        "conclusion/index.md"
+    ]
+]

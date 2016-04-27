@@ -1,0 +1,4 @@
+
+## Denormalisation
+
+Dupliquer la donnée
