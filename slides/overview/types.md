@@ -5,13 +5,13 @@
 
 *Riak*, *Redis*
 
-- **Base de données orientée documents**
-
-*MongoDB*, *Couchbase*
-
 - **Base de données orientée colonnes**
 
 *Cassandra*, *HBase*
+
+- **Base de données orientée documents**
+
+*MongoDB*, *Couchbase*
 
 - **Base de donnée orientée graphe**
 

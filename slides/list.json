@@ -9,7 +9,8 @@
     [
         "overview/index.md",
         "overview/types.md",
-        "overview/cap.md"
+        "overview/cap.md",
+        "overview/cap_result.md"
     ],
     [
         "modeling/index.md",
@@ -26,7 +27,10 @@
         "basic_examples/relation_1_n_tres_grand.md"
     ],
     [
-        "advanced_techniques/index.md"
+        "advanced_techniques/index.md",
+        "advanced_techniques/atomic_aggregate.md",
+        "advanced_techniques/composite_key.md",
+        "advanced_techniques/index_table.md"
     ],
     [
         "conclusion/index.md"

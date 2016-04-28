@@ -6,5 +6,5 @@
     - Théorique
 
 - Modèle NoSQL
-    - Guidé par les usages de la donnée
+    - DDD, guidé par les usages de la donnée
     - "Expérimental"
