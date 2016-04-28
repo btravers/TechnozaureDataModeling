@@ -1,5 +1,5 @@
 
-## Tolérence à la panne
+## Tolérance à la panne
 
 <figure>
     <img src="resources/fault_tolerence.gif" alt="Panne"/>

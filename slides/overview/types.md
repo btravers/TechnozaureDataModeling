@@ -1,18 +1,18 @@
 
 ## Familles de bases NoSQL
 
-- **Base de données clé-valeur**
+- Base de données **clé-valeur**
 
-*Riak*, *Redis*
+Ex : *Riak*, *Redis*
 
-- **Base de données orientée colonnes**
+- Base de données **orientée colonnes**
 
-*Cassandra*, *HBase*
+Ex : *Cassandra*, *HBase*
 
-- **Base de données orientée documents**
+- Base de données **orientée documents**
 
-*MongoDB*, *Couchbase*
+Ex : *MongoDB*, *Couchbase*
 
-- **Base de donnée orientée graphe**
+- Base de donnée **orientée graphe**
 
-*Neo4j*, *TITAN*
+Ex : *Neo4j*, *TITAN*

@@ -17,6 +17,7 @@
         "modeling/relational_nosql.md",
         "modeling/denormalization.md",
         "modeling/aggregation.md",
+        "modeling/atomic_aggregation.md",
         "modeling/link.md"
     ],
     [
@@ -25,12 +26,6 @@
         "basic_examples/relation_1_n_faible.md",
         "basic_examples/relation_1_n_grand.md",
         "basic_examples/relation_1_n_tres_grand.md"
-    ],
-    [
-        "advanced_techniques/index.md",
-        "advanced_techniques/atomic_aggregate.md",
-        "advanced_techniques/composite_key.md",
-        "advanced_techniques/index_table.md"
     ],
     [
         "conclusion/index.md"

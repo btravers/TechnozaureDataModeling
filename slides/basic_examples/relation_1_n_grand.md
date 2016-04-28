@@ -1,5 +1,5 @@
 
-## Relation 1 n (n grand)
+## Relation 1:n (n grand)
 
 <figure>
     <img src="resources/relation_1_n_grand.png" alt="Relation 1 n (n grand)" width="60%"/>

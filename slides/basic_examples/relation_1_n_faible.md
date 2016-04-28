@@ -1,5 +1,5 @@
 
-## Relation 1 n (n faible)
+## Relation 1:n (n faible)
 
 <figure>
     <img src="resources/relation_1_n_faible.png" alt="Relation 1 n (n faible)" width="60%"/>
